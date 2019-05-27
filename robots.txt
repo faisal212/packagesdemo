@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*?coupon=*
+Disallow: /checkout/*
+Disallow: /receipt/*
+Disallow: /share/*
+Disallow: /vendors/terms_and_conditions
+Sitemap: https://packlane.com/sitemap.xml

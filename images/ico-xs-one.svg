@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="60px" viewBox="0 0 74 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-s-one</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="i4-mailer-landing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="01-landing-mailer" transform="translate(-60.000000, -848.000000)" stroke-width="2">
+            <g id="ico-s-one" transform="translate(61.000000, 849.000000)">
+                <g id="Page-1" stroke="#233E98">
+                    <path d="M71.1837308,9.56599423 L11.5077115,44.2463788 L0.177173077,37.7044942 L45.9568462,11.1007827 C42.6510385,11.1007827 39.7415577,10.6703019 37.2284038,9.81005192 C34.7102692,8.95264808 32.0818462,7.73307115 29.3381538,6.148475 L39.7415577,0.102532692 C43.2302308,2.11689808 46.61075,3.34714808 49.8916538,3.79328269 C53.1725577,4.23870577 56.7259808,4.11560962 60.5398269,3.42043654 L71.1837308,9.56599423 Z" id="Stroke-1"></path>
+                    <polyline id="Stroke-3" points="71.1837308 9.56599423 71.1460192 22.9066288 11.47 57.5863019 11.5077115 44.2463788"></polyline>
+                    <polyline id="Stroke-5" points="11.4697154 57.5864442 0.139888462 51.0452712 0.1776 37.7046365"></polyline>
+                    <path d="M30.42695,20.1226635 C30.0533923,19.9184519 29.6777,19.707125 29.2998731,19.4886827 L29.3375846,6.14875962" id="Stroke-7"></path>
+                </g>
+                <polygon id="Path" stroke="#1BDFC7" transform="translate(15.310371, 23.458178) rotate(-150.000000) translate(-15.310371, -23.458178) " points="3.00020872 21.3745171 25.2853241 32.7570941 27.6205342 14.1592629"></polygon>
+                <path d="M46.9071383,36.420136 L64.0795271,24.5344617 M51.1394446,41.0402465 L68.3118333,29.1545721 M55.4933327,45.6603569 L72.6657214,33.7746826" id="Stroke-9-Copy" stroke="#F9CF57" transform="translate(59.786430, 35.097409) rotate(-255.000000) translate(-59.786430, -35.097409) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
